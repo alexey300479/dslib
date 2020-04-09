@@ -1,4 +1,24 @@
-# nbdev template
+# Data science modules library
+> This lib will have a lot of usefull functions and classes as soon as possible.
 
-Use this template to more easily create your nbdev project.
+
+This file will become your README and also the index of your documentation.
+
+## Install
+
+`pip install dslib`
+
+## How to use
+
+Fill me in please! Don't forget code examples:
+
+```python
+1+1
+```
+
+
+
+
+    2
+
 
