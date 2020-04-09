@@ -10,15 +10,15 @@ This file will become your README and also the index of your documentation.
 
 ## How to use
 
-Fill me in please! Don't forget code examples:
+Let's see that at work:
 
 ```python
-1+1
+say_hello('Alexey')
 ```
 
 
 
 
-    2
+    'Hello Alexey!'
 
 
